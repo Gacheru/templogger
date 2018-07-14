@@ -1,0 +1,24 @@
+{
+  "name": "iot-templogger",
+  "version": "1.0.0",
+  "description": "IOT Temperature Logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gacheru/templogger.git"
+  },
+  "keywords": [
+    "IOT",
+    "Temperature",
+    "Logger"
+  ],
+  "author": "Evans Gacheru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gacheru/templogger/issues"
+  },
+  "homepage": "https://github.com/Gacheru/templogger#readme"
+}
